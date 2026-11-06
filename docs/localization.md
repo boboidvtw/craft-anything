@@ -75,3 +75,10 @@ already include. Local builds must set `CRAFT_FONTS_DIR` to a craft-fonts checko
 before compiling to get the same glyph coverage. The catalogs add no font assets.
 Check each script, clipping, narrow windows and native file dialogs visually
 on each platform; catalog coverage alone does not verify layout or fonts.
+
+## Traditional Chinese documentation
+
+`README.zh-Hant.md` translates `README.md` into Traditional Chinese (Taiwan usage), and
+`docs/zh-hant/` holds a Traditional Chinese user guide (install, the app, AI setup, CLI and MCP,
+project files, troubleshooting, development). Update them when the English README or the behaviour
+they describe changes; the English text wins where they differ.

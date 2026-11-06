@@ -204,7 +204,7 @@ Building needs a coding agent such as Claude Code, or an AI with an API key.	建
 Builds	建置
 Builds and answers may use it again.	建置和回答時可以再次使用它。
 Builds at once	同時建置數量
-Builds keep going without stopping to ask you before an action. The builder still never deletes outside its project, changes system settings or publishes anything, and stays within each project's asset budget.	建置會持續進行，不會在每次操作前停下詢問。建置助手仍不會刪除專案外的內容、修改系統設定或發佈任何內容，並遵守各專案的素材預算。
+Builds keep going without stopping to ask you before an action. The builder still never deletes outside its project, changes system settings or publishes anything, and stays within each project's asset budget.	建置會持續進行，不會在每次操作前停下詢問。建置助手仍不會刪除專案外的內容、修改系統設定或發布任何內容，並遵守各專案的素材預算。
 Builds use this one. Click to choose automatically again.	建置時使用此助手。按一下可恢復自動選擇。
 Built by	建置助手
 Built with	建置工具
@@ -567,7 +567,7 @@ Is this file safe to open?	這個檔案可以安全開啟嗎？
 It closed straight away.	它啟動後立即關閉了。
 It closed straight away. It said:	程式啟動後立即關閉。輸出如下：
 It isn't on this computer yet. Craft Anything can download Ghidra {version} and the Java runtime it needs (about {mb} MB), check both against their publishers' checksums, and set them up in its own folder. Nothing else on your computer changes.	此電腦尚未安裝。Craft Anything 可以下載 Ghidra {version} 及所需的 Java 執行階段 (約 {mb} MB)，對照發行者的總和檢查碼驗證兩者，並安裝到自己的資料夾中。電腦上的其他內容不會變更。
-It isn't on this computer yet. Install Ghidra {version} from its release page, then choose its folder.	這台電腦尚未安裝 Ghidra。請從發佈頁面安裝 Ghidra {version}，然後選擇其資料夾。
+It isn't on this computer yet. Install Ghidra {version} from its release page, then choose its folder.	這台電腦尚未安裝 Ghidra。請從發布頁面安裝 Ghidra {version}，然後選擇其資料夾。
 It's already open.	它已經開啟了。
 It's already open. Right-click it to open another copy.	已經開啟。按右鍵可再開啟一個副本。
 It's done	就這樣吧
@@ -772,7 +772,7 @@ Only take pictures out of games you made, or whose owner allows it. A game's art
 Only the pin goes; the project and its app stay as they are.	僅移除釘選紀錄；專案和應用程式保持不變。
 Open	開啟
 Open "Show me the proof" to see the exact code we found, and how sure we are.	開啟「檢視證據」，查看我們找到的具體程式碼及其可信度。
-Open Ghidra's release page	開啟 Ghidra 發佈頁面
+Open Ghidra's release page	開啟 Ghidra 發布頁面
 Open Unity Hub	開啟 Unity Hub
 Open a calculator app and find the code behind one button.	開啟計算機應用程式，找到某個按鈕背後的程式碼。
 Open a file in JEB	在 JEB 中開啟檔案
@@ -1114,7 +1114,7 @@ The first instruction a program runs when it starts.	程式啟動時執行的第
 The full toolset, evidence and logs.	完整工具集、證據和記錄。
 The installer is open. Follow its steps, then come back here.	安裝程式已開啟。依步驟完成安裝，然後回到這裡。
 The lowest-level human-readable form of machine code: one small instruction per line.	機器碼最底層的可讀形式，每行一條簡短指令。
-The names were removed from the program before it was shipped, so we have to work them out.	程式發佈前移除了這些名稱，因此需要推導它們。
+The names were removed from the program before it was shipped, so we have to work them out.	程式發布前移除了這些名稱，因此需要推導它們。
 The packed contents of an Electron app (a website inside a desktop app)	Electron 應用程式的打包內容 (桌面應用程式中的網站)
 The pasted picture wasn't attached: another screen was opened meanwhile.	貼上的圖片沒有附加:期間開啟了另一個頁面。
 The picture on the clipboard is too large.	剪貼簿中的圖片太大。
@@ -1139,7 +1139,7 @@ This can't be undone.	此操作無法復原。
 This folder already has files	此資料夾中已有檔案
 This is a big one. You can leave this open and come back later.	這項工作比較大。可以保持視窗開啟，稍後再回來。
 This is outside what the builder may do on its own. Nothing happens until you say so.	此操作超出了建置助手可以自行處理的範圍。只有你同意後才會執行。
-This keeps going in the background, and each download is checked against its publisher's checksum before it's used.	此操作會在背景繼續，每個下載檔案都會先核對發佈者提供的總和檢查碼，再投入使用。
+This keeps going in the background, and each download is checked against its publisher's checksum before it's used.	此操作會在背景繼續，每個下載檔案都會先核對發布者提供的總和檢查碼，再投入使用。
 This project is waiting its turn. Send your message once it starts.	此專案正在排隊。請在開始後傳送訊息。
 This runs code from the target or changes a device. Clicking Run is your OK.	此操作會執行目標中的程式碼或變更裝置。點選「執行」即表示同意。
 This runs code from the target or changes a device. Nothing runs until you say so.	此操作會執行目標中的程式碼或修改裝置。獲得你的許可後才會執行。
